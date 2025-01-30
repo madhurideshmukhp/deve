@@ -1,0 +1,9 @@
+{
+	"name": "factacc128",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bfde1f3b-eaf7-4215-b48e-3f196303cf4d",
+		"tenantId": "441dc366-2988-4558-8827-718893181569"
+	}
+}
